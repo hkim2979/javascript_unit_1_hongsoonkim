@@ -40,7 +40,7 @@ const quotes = [
     quote: 'May the Force be with you.',
     source: 'Han Solo',
     citation: 'Star Wars',
-    year: '	1977',
+    year: '1977',
     tag: 'Movie'
   },
   {
