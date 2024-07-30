@@ -6,5 +6,14 @@ This project is a straightforward web application designed to generate random qu
 
 ## Features
 <ul>
- <li><strong>Random Quote Display</strong>: Shows a randomly chosen quote from a set list.</li>
+ <li><strong>Display Random Quote</strong>: Shows a randomly chosen quote from a set list.</li>
+ <li><strong>Auto Generate Quotes</strong>: Periodically refreshes the page to show a new quote automatically.</li>
+ <li><strong>Auto Background Color</strong>: Alters the background color of the page whenever a new quote is shown.</li>
+ <li><strong>Tags Property</strong>: Adds tags to categorize the quotes.</li>
+ <li><strong>Web Sizes</strong>: Makes sure the application works smoothly on different screen sizes.</li>
 </ul>
+
+ ## Skills
+- HTML
+- CSS
+- JavaScript
